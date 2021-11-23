@@ -1,7 +1,8 @@
 <?php declare(strict_types=1);
+require 'vendor/autoload.php';
 use PHPUnit\Framework\TestCase;
 
-final class DataTest extends TestCase
+final class Index extends TestCase
 {
     /**
      * @dataProvider additionProvider

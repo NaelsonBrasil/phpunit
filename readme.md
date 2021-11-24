@@ -9,6 +9,6 @@ xdebug.show_exception_trace=0
 ```
 
 ```
-phpunit ./EmailTest.php
+phpunit ./file.php
 
 ```

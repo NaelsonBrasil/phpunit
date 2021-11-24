@@ -7,3 +7,8 @@ zend.assertions=1
 assert.exception=1
 xdebug.show_exception_trace=0
 ```
+
+```
+phpunit ./EmailTest.php
+
+```
